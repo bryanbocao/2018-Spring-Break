@@ -1,0 +1,54 @@
+Observation id,Exp39-ob1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,,,,,,,
+,,,,,,,,
+Observation date,2018-03-08 00:37:42,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Comment,Status,
+8.338,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,1,,,START
+15.000,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,1,,,STOP
+15.515,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+18.137,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+18.309,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+43.601,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+45.334,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+74.334,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+74.549,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,5,,,START
+77.334,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,5,,,STOP
+78.067,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+94.336,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+98.101,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+103.434,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+109.036,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+114.901,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+116.771,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+135.967,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+141.034,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+156.234,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+157.300,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+161.037,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+162.102,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+170.101,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+171.970,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+218.901,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+219.438,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+303.638,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+304.701,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+326.037,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+365.238,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+368.967,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+371.101,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+444.701,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+446.570,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+485.238,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP
+514.434,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,START
+858.401,/Users/agorovoy/Documents/Gesture Exp./videos/Exp39-Kinect-video.mp4,864.500,30,,2,,,STOP

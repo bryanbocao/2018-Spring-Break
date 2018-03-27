@@ -1,0 +1,44 @@
+Observation id,exp34-ob1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,,,,,,,
+,,,,,,,,
+Observation date,2018-03-11 21:46:31,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Comment,Status,
+8.867,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+103.002,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+107.537,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+129.403,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+135.804,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+155.000,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+235.735,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+275.733,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+280.269,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+284.004,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+291.200,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+304.000,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+305.070,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+312.535,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+325.336,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+333.070,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+333.869,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+345.068,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+346.667,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+348.005,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+368.801,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+376.804,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+391.738,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+402.134,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP
+402.938,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,3,,,START
+404.003,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,3,,,STOP
+449.002,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,START
+514.335,/Users/agorovoy/Downloads/Exp34-Kinect-video.mp4,519.330,30,,2,,,STOP

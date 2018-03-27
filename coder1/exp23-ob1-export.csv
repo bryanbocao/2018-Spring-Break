@@ -1,0 +1,70 @@
+Observation id,exp23-ob1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,,,,,,,
+,,,,,,,,
+Observation date,2018-03-18 12:34:29,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Comment,Status,
+5.572,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+151.772,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+152.904,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+202.502,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+203.837,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+217.167,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+225.433,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+228.104,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+234.233,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+240.634,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+264.368,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+264.905,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+271.304,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+293.968,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+300.905,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,4,,,START
+304.634,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,4,,,STOP
+305.167,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+307.568,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+310.501,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+398.502,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+439.833,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,6,,,START
+442.504,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,6,,,STOP
+443.302,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,START
+445.169,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,STOP
+445.704,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+510.236,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+510.504,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+557.434,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+558.237,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+565.168,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+567.304,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+580.367,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+582.237,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+596.904,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+597.700,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+620.638,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+654.768,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+661.433,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+661.972,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,START
+672.904,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,STOP
+673.972,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+795.303,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+795.837,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,START
+797.971,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,STOP
+798.237,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+934.502,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+935.037,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,START
+960.904,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,1,,,STOP
+961.436,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+977.700,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
+980.104,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,4,,,START
+980.904,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,4,,,STOP
+981.704,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,START
+1102.767,/Users/agorovoy/Downloads/Exp23-Kinect-video.mp4,1115.130,30,,2,,,STOP
