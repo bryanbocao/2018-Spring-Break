@@ -12,34 +12,50 @@ https://drive.google.com/drive/folders/0ByTSgObBuWeWVm9wR0tETENyRm8
 (Come whenever you finish the Lab Safety session)
 10:00 am
 Hands-on experiment with the robots/equipments in IronLab
+
 Introduction to other robotics Labs and professors in CU-Boulder
+
 Reading: http://wiki.ros.org/ROS/Tutorials 
+
 Assignment: Install ROS on your laptop
+
 Extra Assignment (Optional): Teleoperate NAO(https://www.ald.softbankrobotics.com/en/robots/nao)  using ROS
 
 ## 03/27 Tue
 ### Introduction to Research in Human-Robot Interaction
 Reading: https://www.ri.cmu.edu/pub_files/pub4/steinfeld_aaron_m_2006_1/steinfeld_aaron_m_2006_1.pdf 
+
 Communicating Directionality in Flying Robots https://drive.google.com/file/d/1H5mU1Jq1-FTmd_e6TjrQRQsCulZ14Au2/view?usp=sharing 
+
 Sensors on Robots
+
 Assignment: Inter-rater Reliability analysis of annotation on video
+
 Assignment: 1) Design a tiny project for the spring break; OR 2) Design a User Study (at least 1000 words)
 
 ## 03/28 Wed
 Reading: https://drive.google.com/open?id=1e9EHCM9j9EUlsavLX-MrEgYBSql7pP6p 
+
 TensorFlow
+
 OpenCV
+
 https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
 Assignment: A network that has the ability to learn from a camera.
 
 ## 03/29 Thu
 Reading: https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf 
+
 Research vs Industry
+
 How to choose Grad schools & Professors
+
 Data Analysis on Research
 
 ## 03/30 Fri
 Finish the work that has not been finished in this week
+
 Questions?
 
 bo.cao-1@colorado.edu
