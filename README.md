@@ -25,3 +25,6 @@ to apply the changes to the commit in the local repository
 ```
 git commit -m "Add OpenCV document & Update README.md"
 ```
+```
+git pull
+```
