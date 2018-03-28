@@ -40,6 +40,8 @@ TensorFlow
 
 OpenCV
 
+Installation: https://medium.com/@debugvn/installing-opencv-3-3-0-on-ubuntu-16-04-lts-7db376f93961
+
 https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
 
 Assignment: A network that has the ability to learn from a camera.
